@@ -2,7 +2,7 @@
 
 A simple pastime games to study structured python.
 
-Here, you will find two passing games: Guessing game and Hangman game.
+Here, you will find two pastime games: Guessing game and Hangman game.
 
 In guessing game, you will have to guess a number with a limited amount of attempts. In the hangman game you play the hangman game, with a theme chosen by the player ;)
 
