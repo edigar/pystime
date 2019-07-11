@@ -1,6 +1,6 @@
 # Pystime
 
-A simple pastime games to study structured python.
+A simple pastime games.
 
 Here, you will find two pastime games: Guessing game and Hangman game.
 
