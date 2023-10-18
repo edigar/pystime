@@ -14,12 +14,10 @@ In guessing game, you will have to guess a number with a limited amount of attem
 
 ## Installation
 
-Just clone repository and execute play_games.py file with python interpreter/compiler:
+Just clone or download this repository and execute play_games.py file with python interpreter/compiler:
 
 ```
-$ git clone git@github.com:edigar/pystime.git
-$ cd pystime
-$ python3 play_games.py
+python3 play_games.py
 ```
 
 
